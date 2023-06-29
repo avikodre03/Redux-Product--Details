@@ -1,0 +1,48 @@
+.ProductComp {
+    height: 80%;
+    width: 80%;
+    margin: 2.5rem auto;
+    box-shadow: 0 0 10px black;
+    display: flex;
+}
+
+.ProductCompLeftPannal {
+    height: 100%;
+    width: 30%;
+   
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.ProductCompLeftPannal ul {
+    height: 90%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    list-style: none;
+}
+.ProductCompLeftPannal ul a{
+    color: white;
+    text-decoration: none;
+}
+.ProductCompLeftPannal li {
+    font-size: 1.5rem;
+    font-weight: bold;
+
+}
+
+.ProductCompRightPannal {
+    height: 100%;
+    width: 70%;
+   
+    padding: 1rem;
+    display: flex;
+flex-direction: column;
+align-items: center;
+}

@@ -1,0 +1,15 @@
+.electronic{
+    height: 100%;
+    padding: 10px;
+}
+.electronic h1{
+    margin: 2rem 0;
+    text-align: center;
+    color: red;
+}
+.electronic h3{
+    margin: 20px 0;
+}
+.electronic a {
+    text-decoration: none;
+}
